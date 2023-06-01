@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm @Paphon</h1>
+<h3 align="center">I am an undergraduate at Mahidol university who loves coding~</h3>
+
+- 🔭 I’m currently working on **my own website and Discord bot**
+
+- 🌱 Currently learning **TypeScript**
+
+- 📫 Reach me here **Paphonwong@outlook.com**
 
 <!--
 **PaphonW/PaphonW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
